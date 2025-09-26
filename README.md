@@ -177,14 +177,4 @@ Anonymous Chat/
 - [ ] Message encryption
 - [ ] Push notifications
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## Support
-
-For support, please open an issue in the repository or contact the development team.
-
----
-
-**Built with ❤️ for anonymous communication**
+#
