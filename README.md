@@ -2,6 +2,8 @@
 
 A real-time chat application that allows users to communicate anonymously or with their identity. Built with modern web technologies for a seamless chatting experience.
 
+https://github.com/user-attachments/assets/7cea0ba7-9537-4b82-87d1-97cd79b0e5a6
+
 ## Features
 
 - **Real-time messaging** - Instant message delivery using WebSocket connections
